@@ -19,29 +19,10 @@ Here are pictures of my pcb:
 | \*\*Schematic\*\* | \*\*PCB\*\* |
 
 |---------------|---------|
-
-<<<<<<< HEAD
-|!\[](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/Schematic.png)|![](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/PCB.png)|
 =======
 |!\[](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/Schematic.png)  |!\[](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/PCB.png)|
 
 
-
-
-
-\## CAD
-
-Designed using FreeCAD! It was painful. Be glad you have the current guide, I spent 10+ hours figuring out how to do everything correctly (and even like this I still did stupid stuff).
-
-
-
-!\[](https://cloud-3jqi500oq-hack-club-bot.vercel.app/2screenshot\_2024-10-06\_at\_3.43.34\_pm.png)
-
-
-
-Everything fits together with 4 m3 screws and bolts
-
->>>>>>> 43176fb0663329bbf8bbf24638b8fe78b4579243
 
 
 \## Firmware
