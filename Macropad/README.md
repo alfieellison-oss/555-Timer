@@ -20,7 +20,7 @@ Here are pictures of my pcb:
 
 |---------------|---------|
 
-|!\[](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/Schematic.png)|!\[](https://i.ibb.co/fJRxwY7/image.png)|
+|!\[](https://github.com/alfieellison-oss/verbose-tribble/blob/main/Macropad/Images/Schematic.png)  |!\[](https://i.ibb.co/fJRxwY7/image.png)|
 
 
 
