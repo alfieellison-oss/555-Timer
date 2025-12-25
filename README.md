@@ -1,6 +1,6 @@
-\# Alfie's CAD Macropad
+\# Alfie's Blinky Project
 
-Hello! This is my repo for a BLinky project! This was made as  abit of fun whiel leanring to use %%% timing IC's in larger circuits..
+Hello! This is my repo for a Blinky project! This was made as  abit of fun whiel leanring to use %%% timing IC's in larger circuits..
 
 <img src="https://github.com/alfieellison-oss/555-Timer/blob/main/555-Timer/3D%View.png" width="600" />
 
