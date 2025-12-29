@@ -1,19 +1,19 @@
-\# Alfie's Blinky Project
+# Alfie's Blinky Project
 
 Hello! This is my repo for a Blinky project! This was made as abit of fun while leanring to use 555 timing IC's in larger circuits..
 
 <img src="https://github.com/alfieellison-oss/555-Timer/blob/main/555-Timer/3D%20view.png" width="600" />
 
 
-\## Features
+## Features
 
-\- 10 LED's'
+- 10 LED's'
 
-\- A 555 IC
+- A 555 IC
  
-\- A 4017 I/O expander IC
+- A 4017 I/O expander IC
 
-\## PCB
+## PCB
 
 Here are pictures of my pcb:
 
@@ -26,11 +26,11 @@ Here are pictures of my pcb:
 
 
 
-\## Notes
+## Notes
 
-\- Making this is only my second time usign KiCAD so forgive any mistakes that have been made. this was my first time importng images into KiCAD and the only time i have made a non-rectangular PCB shape.
+- Making this is only my second time usign KiCAD so forgive any mistakes that have been made. this was my first time importng images into KiCAD and the only time i have made a non-rectangular PCB shape.
 
-\## BOM
+## BOM
 
 | Ref    | Component             | Value / Description         | Footprint               | Qty |
 | ------ | --------------------- | --------------------------- | ----------------------- | --- |
